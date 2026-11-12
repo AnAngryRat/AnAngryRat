@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## 🎮 Play My Games
+
+### Asteroids
+
+A recreation of the classic arcade game, built with Python and Pygame.
+
+[![Play Asteroids](https://img.shields.io/badge/PLAY-ASTEROIDS-brightgreen?style=for-the-badge&logo=pygame)](https://anangryrat.github.io/asteroids/)
+
+**Tech:** Python · Pygame CE · Pygbag · WebAssembly
+
+[Source Code](https://github.com/AnAngryRat/asteroids) · [Play in Browser](https://anangryrat.github.io/asteroids/)
+
 <!--
 **AnAngryRat/AnAngryRat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
