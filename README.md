@@ -4,6 +4,9 @@
 
 ### Asteroids
 
+![Asteroids Preview](1112.gif)
+
+
 A recreation of the classic arcade game, built with Python and Pygame.
 
 [![Play Asteroids](https://img.shields.io/badge/PLAY-ASTEROIDS-brightgreen?style=for-the-badge&logo=pygame)](https://anangryrat.github.io/asteroids/)
