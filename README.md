@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🎮 Play My Games
+## 🎮 You've Reached a Checkpoint! Take a Break With This Asteroids Clone I Made (You've Earned It).
 
 ### Asteroids
 
